@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\1453n\\OneDrive\\Masaüstü\\BarınakUygulaması\\BarinakAPI\\Presentation\\BarinakAPI.API\\wwwroot\\Photo-image\\HYT9608.JPG",
+      "PackagePath": "staticwebassets\\Photo-image\\HYT9608.JPG"
+    },
+    {
+      "Id": "C:\\Users\\1453n\\OneDrive\\Masaüstü\\BarınakUygulaması\\BarinakAPI\\Presentation\\BarinakAPI.API\\wwwroot\\Photo-image\\HYT9609.JPG",
+      "PackagePath": "staticwebassets\\Photo-image\\HYT9609.JPG"
+    },
+    {
+      "Id": "C:\\Users\\1453n\\OneDrive\\Masaüstü\\BarınakUygulaması\\BarinakAPI\\Presentation\\BarinakAPI.API\\wwwroot\\Photo-image\\HYT9610.JPG",
+      "PackagePath": "staticwebassets\\Photo-image\\HYT9610.JPG"
+    },
+    {
+      "Id": "C:\\Users\\1453n\\OneDrive\\Masaüstü\\BarınakUygulaması\\BarinakAPI\\Presentation\\BarinakAPI.API\\wwwroot\\Photo-image\\HYT9634.JPG",
+      "PackagePath": "staticwebassets\\Photo-image\\HYT9634.JPG"
+    },
+    {
+      "Id": "C:\\Users\\1453n\\OneDrive\\Masaüstü\\BarınakUygulaması\\BarinakAPI\\Presentation\\BarinakAPI.API\\wwwroot\\Photo-image\\sakalli.jpg",
+      "PackagePath": "staticwebassets\\Photo-image\\sakalli.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BarinakAPI.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BarinakAPI.API.props",
+      "PackagePath": "build\\BarinakAPI.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BarinakAPI.API.props",
+      "PackagePath": "buildMultiTargeting\\BarinakAPI.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BarinakAPI.API.props",
+      "PackagePath": "buildTransitive\\BarinakAPI.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,17 @@
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\bin\Debug\net7.0\BarinakAPI.SignaIR.deps.json
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\bin\Debug\net7.0\BarinakAPI.SignaIR.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\bin\Debug\net7.0\BarinakAPI.SignaIR.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\bin\Debug\net7.0\BarinakAPI.Application.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\bin\Debug\net7.0\BarinakAPI.Domain.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\bin\Debug\net7.0\BarinakAPI.Application.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\bin\Debug\net7.0\BarinakAPI.Domain.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\obj\Debug\net7.0\BarinakAPI.SignaIR.csproj.AssemblyReference.cache
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\obj\Debug\net7.0\BarinakAPI.SignaIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\obj\Debug\net7.0\BarinakAPI.SignaIR.AssemblyInfoInputs.cache
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\obj\Debug\net7.0\BarinakAPI.SignaIR.AssemblyInfo.cs
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\obj\Debug\net7.0\BarinakAPI.SignaIR.csproj.CoreCompileInputs.cache
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\obj\Debug\net7.0\BarinakAPI.SignaIR.csproj.CopyComplete
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\obj\Debug\net7.0\BarinakAPI.SignaIR.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\obj\Debug\net7.0\refint\BarinakAPI.SignaIR.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\obj\Debug\net7.0\BarinakAPI.SignaIR.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.SignaIR\obj\Debug\net7.0\ref\BarinakAPI.SignaIR.dll

@@ -1,0 +1,15 @@
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\bin\Debug\net7.0\BarinakAPI.Application.deps.json
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\bin\Debug\net7.0\BarinakAPI.Application.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\bin\Debug\net7.0\BarinakAPI.Application.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\bin\Debug\net7.0\BarinakAPI.Domain.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\bin\Debug\net7.0\BarinakAPI.Domain.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\obj\Debug\net7.0\BarinakAPI.Application.csproj.AssemblyReference.cache
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\obj\Debug\net7.0\BarinakAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\obj\Debug\net7.0\BarinakAPI.Application.AssemblyInfoInputs.cache
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\obj\Debug\net7.0\BarinakAPI.Application.AssemblyInfo.cs
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\obj\Debug\net7.0\BarinakAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\obj\Debug\net7.0\BarinakAPI.Application.csproj.CopyComplete
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\obj\Debug\net7.0\BarinakAPI.Application.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\obj\Debug\net7.0\refint\BarinakAPI.Application.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\obj\Debug\net7.0\BarinakAPI.Application.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Application\obj\Debug\net7.0\ref\BarinakAPI.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Domain\bin\Debug\net7.0\BarinakAPI.Domain.deps.json
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Domain\bin\Debug\net7.0\BarinakAPI.Domain.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Domain\bin\Debug\net7.0\BarinakAPI.Domain.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Domain\obj\Debug\net7.0\BarinakAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Domain\obj\Debug\net7.0\BarinakAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Domain\obj\Debug\net7.0\BarinakAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Domain\obj\Debug\net7.0\BarinakAPI.Domain.AssemblyInfo.cs
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Domain\obj\Debug\net7.0\BarinakAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Domain\obj\Debug\net7.0\BarinakAPI.Domain.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Domain\obj\Debug\net7.0\refint\BarinakAPI.Domain.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Domain\obj\Debug\net7.0\BarinakAPI.Domain.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Core\BarinakAPI.Domain\obj\Debug\net7.0\ref\BarinakAPI.Domain.dll

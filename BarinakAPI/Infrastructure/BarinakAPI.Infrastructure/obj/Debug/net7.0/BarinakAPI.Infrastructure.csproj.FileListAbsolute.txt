@@ -1,0 +1,17 @@
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\bin\Debug\net7.0\BarinakAPI.Infrastructure.deps.json
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\bin\Debug\net7.0\BarinakAPI.Infrastructure.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\bin\Debug\net7.0\BarinakAPI.Infrastructure.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\bin\Debug\net7.0\BarinakAPI.Application.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\bin\Debug\net7.0\BarinakAPI.Domain.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\bin\Debug\net7.0\BarinakAPI.Application.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\bin\Debug\net7.0\BarinakAPI.Domain.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\obj\Debug\net7.0\BarinakAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\obj\Debug\net7.0\BarinakAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\obj\Debug\net7.0\BarinakAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\obj\Debug\net7.0\BarinakAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\obj\Debug\net7.0\BarinakAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\obj\Debug\net7.0\BarinakAPI.Infrastructure.csproj.CopyComplete
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\obj\Debug\net7.0\BarinakAPI.Infrastructure.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\obj\Debug\net7.0\refint\BarinakAPI.Infrastructure.dll
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\obj\Debug\net7.0\BarinakAPI.Infrastructure.pdb
+C:\Users\1453n\OneDrive\Masaüstü\BarınakUygulaması\BarinakAPI\Infrastructure\BarinakAPI.Infrastructure\obj\Debug\net7.0\ref\BarinakAPI.Infrastructure.dll
